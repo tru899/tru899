@@ -4,13 +4,13 @@ I'm Data Analyst📊
 
 work with: 
 ```
-Python (incl. pandas and numpy)
+Python, Pandas, NumPy
 PostgreSQL
 Airflow
 ```
 do: 
 ```
 ETL
-SQL requests
+Ad hoc
 Metrics
 ```
