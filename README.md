@@ -6,11 +6,11 @@ work with:
 ```
 Python, Pandas, NumPy
 PostgreSQL
-Airflow
 ```
 do: 
 ```
 ETL
-Ad hoc
+Adhoc
 Metrics
 ```
+![](https://komarev.com/ghpvc/?username=tru899&color=blueviolet&label=Hi&abbreviated=true)
