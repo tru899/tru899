@@ -6,12 +6,12 @@
 
 <p align="center">
   <b>Hi, I'm Egor Drobyshev</b><br>
-  Data Analyst | MAI CS student
+  Data Analyst | MAI CS student | AI Enthusiast
 </p>
 
 <p align="center">
   ETL | EDA | Product Metrics | Adhoc Analysis<br>
-  Stack: Python (pandas, numpy, scipy) | PostgreSQL / MS SQL | PowerBI
+  Stack: Python (pandas, numpy, scipy) | PostgreSQL | PowerBI
 </p>
 
 
