@@ -1,7 +1,7 @@
 ## Welcome!
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Data+Analyst+|+MAI+CS+student+|+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=800&lines=Data+Analyst+|+MAI+CS+student+|+AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
